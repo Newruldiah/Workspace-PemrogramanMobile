@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/nurul_diah_rahmadiah_pong_game/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/nurul_diah_rahmadiah_pong_game/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/nurul_diah_rahmadiah_pong_game/build" />
+      <excludeFolder url="file://$MODULE_DIR$/nurul_diah_rahmadiah_productivity_timer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/nurul_diah_rahmadiah_productivity_timer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/nurul_diah_rahmadiah_productivity_timer/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
