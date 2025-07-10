@@ -48,7 +48,7 @@ class _MovieListState extends State<MovieList> {
                     onSubmitted: (String text) {
                       search(text);
                     },
-                    style: TextStyle(color: Colors.white, fontSize: 20.0),
+                    style: TextStyle(color: Color.fromARGB(255, 0, 0, 0), fontSize: 20.0),
                   );
                 } else {
                   setState(() {
